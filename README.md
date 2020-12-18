@@ -9,7 +9,7 @@ https://github.com/DtjiSoftwareDeveloper/Box-Eats-Plants/blob/main/executable/bo
 
 ### Source Code
 
-Python code used to run the application is available in
+Python code used to run the game is available in
 https://github.com/DtjiSoftwareDeveloper/Box-Eats-Plants/blob/main/code/box_eats_plants.py.
 
 ### Getting Started
